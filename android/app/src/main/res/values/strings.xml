@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Rajasthan Education Nathu</string>
+    <string name="title_activity_main">Rajasthan Education Nathu</string>
+    <string name="package_name">com.rajasthan.education.nathu</string>
+    <string name="custom_url_scheme">com.rajasthan.education.nathu</string>
+</resources>
